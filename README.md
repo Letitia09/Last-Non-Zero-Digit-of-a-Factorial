@@ -1,0 +1,1 @@
+# Last-Non-Zero-Digit-of-a-Factorial
